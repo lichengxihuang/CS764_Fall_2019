@@ -1,5 +1,4 @@
 # CS764 Project Fall 2019
-# Lichengxi Huang
 
 To build the program, at the project root dir (CS764_lichengxi_huang):
 ```
